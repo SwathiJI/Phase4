@@ -87,37 +87,3 @@ Flow chart is for submit number 1 (some few changes were not added here)
 •	Run using ng serve –open
 
 •	It would be shown in http://localhost:4200/
-
-
-## Screenshots
-![image](https://user-images.githubusercontent.com/64940728/126695618-810d1f6b-9dd2-4b30-8f3e-e284eeceae2f.png)
-
-![image](https://user-images.githubusercontent.com/64940728/126695628-646fbc83-dea1-47f0-b84d-1073fca9c548.png)
-
-![image](https://user-images.githubusercontent.com/64940728/126695651-056944a0-c568-4b25-9976-05477e7ecb60.png)
-
-![image](https://user-images.githubusercontent.com/64940728/126695663-c5942f9f-c36b-4ad4-9e15-04b0e4a3e1bb.png)
-
-![image](https://user-images.githubusercontent.com/64940728/126695675-dd33eb47-53e9-4f28-81c2-a6c10eb8b747.png)
-
-
-![image](https://user-images.githubusercontent.com/64940728/126695690-a7f43216-f55b-414e-bdb2-adade60230ee.png)
-
-
-![image](https://user-images.githubusercontent.com/64940728/126695704-ff25c0e0-7711-4d66-9585-4a7c16283128.png)
-
-![image](https://user-images.githubusercontent.com/64940728/126695714-546ab0b5-b86b-4145-b40f-4adee50c83e6.png)
-
-![image](https://user-images.githubusercontent.com/64940728/126695725-c09d7dc9-b65d-4afd-bc43-4875242143c5.png)
-
-
-![image](https://user-images.githubusercontent.com/64940728/126695738-b50a08d7-ce49-4129-89a6-c110b18592c1.png)
-
-![image](https://user-images.githubusercontent.com/64940728/126695747-bcb331e3-7cd6-421e-ab0a-6943c824c7b0.png)
-
-
-![image](https://user-images.githubusercontent.com/64940728/126695761-68225a2e-a704-415e-992a-2fa9db32d65e.png)
-
-
-
-
